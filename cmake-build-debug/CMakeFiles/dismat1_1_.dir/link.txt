@@ -1,0 +1,3 @@
+"Z:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\dismat1_1_.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\dismat1_1_.dir/objects.a @CMakeFiles\dismat1_1_.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\dismat1_1_.dir/objects.a -Wl,--no-whole-archive -o dismat1_1_.exe -Wl,--out-implib,libdismat1_1_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dismat1_1_.dir\linklibs.rsp

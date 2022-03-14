@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/clionProjects/dismat1.1/libs/bitset.c
+bitset.h
+Z:/clionProjects/dismat1.1/libs/bitset.h
+assert.h
+-
+iso646.h
+-
+stdio.h
+-
+
+Z:/clionProjects/dismat1.1/libs/bitset.h
+stdint.h
+-
+stdbool.h
+-
+iso646.h
+-
+
